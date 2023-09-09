@@ -1,6 +1,10 @@
 # 0x05-react_state
 
 ## Learning Objectives
+<<<<<<< HEAD
+=======
+
+>>>>>>> a113d7400626cc37d9fc863b0a311cf225f6ed26
 - What the state of a component or a container is
 - The lifecycle of a component
 - How to modify a state and execute code in the right order
